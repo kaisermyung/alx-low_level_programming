@@ -2,7 +2,7 @@
 
 void print_alphabet(void)
 {
-	INT I;
+	int i;
 	char alphabet[] = "abcdefghijklmnopqrstuvwxyz";
 	for( i=0; i<26;i++)
 	{
