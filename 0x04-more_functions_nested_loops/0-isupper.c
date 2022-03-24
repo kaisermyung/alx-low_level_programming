@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * _isupper 
- * return: Always
+ * return: 0 if char  is lower and 1 if char is upper 
  */
 
 int _isupper(int c)
