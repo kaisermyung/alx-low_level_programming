@@ -2,10 +2,11 @@
 
 void print_alphabet(void)
 {
+	INT I;
 	char alphabet[] = "abcdefghijklmnopqrstuvwxyz";
-	for (int i=0; i<26;i++)
+	for( i=0; i<26;i++)
 	{
 	_putchar(alphabet[i]);
 	}
-	-putchar("\n");
+	_putchar("\n");
 }
